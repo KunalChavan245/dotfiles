@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Kunal's Dotfiles</title>
 </head>
 <body style="background:#0a0a0f; color:#e8e8f0; font-family:sans-serif; max-width:900px; margin:0 auto; padding:2rem;">
 
