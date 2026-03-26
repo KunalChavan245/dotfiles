@@ -13,6 +13,8 @@ cp -r ~/.config/hyde/* ~/dotfiles/hyde/
 cd ~/dotfiles
 git add .
 git commit -m "sync: $(date '+%Y-%m-%d %H:%M')"
+git pull --release origin main
 git push origin main
+
 
 echo "✅ Dotfiles synced!"
